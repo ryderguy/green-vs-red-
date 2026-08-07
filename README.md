@@ -20,7 +20,7 @@ cd ~/Downloads/Green vs Red
 ```lua
  ./'Green vs Red.sh'
 ```
-#windows install commands
+# windows install commands
 1. run the exe
 2. done
 
